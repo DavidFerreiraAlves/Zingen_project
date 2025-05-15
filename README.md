@@ -48,7 +48,7 @@ Zingen_project/
 
 > 📷 **Homepage Preview**
 
-![Zingen Project Preview](https://via.placeholder.com/900x500.png?text=Zingen+Preview) <!-- Troque pela URL real da sua imagem -->
+![Zingen Project Preview](https://davidferreiraalves.github.io/Zingen_project/) <!-- Troque pela URL real da sua imagem -->
 
 ## 💼 What I Learned
 
