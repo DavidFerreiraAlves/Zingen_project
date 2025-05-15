@@ -29,27 +29,6 @@ The **Zingen Project** is a frontend web layout project that highlights:
 - **CSS Variables**
 - No frameworks or JavaScript
 
-## 📁 Project Structure
-
-Zingen_project/
-├── index.html
-├── style/
-│ └── style.css
-└── assets/
-├── images/
-│ ├── logo.svg
-│ ├── icons/
-│ │ └── icon-*.svg
-│ └── illustrations/
-│ └── *.png / *.svg
-
-
-## 🖼️ Preview
-
-> 📷 **Homepage Preview**
-
-![Zingen Project Preview]("https://github.com/DavidFerreiraAlves/Zingen_project/tree/main/assets\print-readme.png") <!-- Troque pela URL real da sua imagem -->
-
 ## 💼 What I Learned
 
 - How to build responsive layouts from scratch
