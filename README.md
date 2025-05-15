@@ -48,7 +48,7 @@ Zingen_project/
 
 > 📷 **Homepage Preview**
 
-![Zingen Project Preview]("assets\Captura de tela 2025-05-15 104705.png") <!-- Troque pela URL real da sua imagem -->
+![Zingen Project Preview]("https://github.com/DavidFerreiraAlves/Zingen_project/tree/main/assets\Captura de tela 2025-05-15 104705.png") <!-- Troque pela URL real da sua imagem -->
 
 ## 💼 What I Learned
 
